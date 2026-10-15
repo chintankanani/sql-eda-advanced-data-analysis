@@ -45,8 +45,6 @@ SQL-EDA-Advanced-Data-Analysis/
     └── 13_report_products.sql
 ```
 
-*Note: The folder and dataset filenames above illustrate the structure. Keep the names in this section consistent with the actual names in your GitHub repository.*
-
 ## Analysis Workflow
 
 ### 1. Database Exploration
