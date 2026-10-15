@@ -187,10 +187,6 @@ Together, these datasets support customer-level and product-level analysis throu
 
 This project strengthened my ability to use SQL Server for exploratory analysis, advanced analytical queries, and business reporting. It demonstrates how customer, product, and sales data can be combined to calculate KPIs and investigate business performance.
 
-## Course Reference
-
-Completed as part of the practical SQL projects in [The Complete SQL Bootcamp (30 Hours): Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/).
-
 ## Author
 
 **Chintankumar Kanani**
